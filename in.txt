@@ -1,0 +1,13 @@
+user1 -> xxx@ya.ru, foo@gmail.com, lol@mail.ru, fayling1@soup.io, cdabell6@parallels.com, ccogdonj@cdc.gov
+user2 -> foo@gmail.com, ups@pisem.net, shoggan2@shareasale.com, vbreslin7@apache.org, spovlsenl@cornell.edu
+user3 -> xyz@pisem.net, vasya@pupkin.com, kmacconnal3@nymag.com, kroon8@arizona.edu, asleightholmek@bbc.co.uk
+user4 -> ups@pisem.net, aaa@bbb.ru, kmacconnal3@nymag.com, mdryburgh9@unblog.fr, noshesnani@mayoclinic.com
+user5 -> xyz@pisem.net, jlowther4@spotify.com, melizabetha@yelp.com, cquadrib@unicef.org, adarintonm@is.gd
+user6 -> jhenrion0@1688.com, fchilcott5@elpais.com, dperhamc@examiner.com, edatted@woothemes.com, arhysn@artisteer.com
+user9 ->
+user7 -> jwinhame@eepurl.com, mdrewettf@mashable.com, malfonsog@unc.edu, pbysouthh@lycos.com, ddeminicoo@bing.com
+user8 -> hkliemannp@senate.gov, setterq@booking.com, tlannenr@goo.gl
+
+user10 -> tlannenr@goo.gl, bsherrettx@acquirethisname.com, aducketty@spotify.com, chornigz@patch.com,  njosefovic10@independent.co.uk
+user11 -> cloxdale11@surveymonkey.com, gbiggar12@google.de, bgoalley13@ox.ac.uk, bsexstone14@ibm.com, zvanshin15@hatena.ne.jp
+user12 -> yfreke16@marriott.com, uboord17@samsung.com, abrompton18@usatoday.co
